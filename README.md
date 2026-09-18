@@ -22,10 +22,8 @@
 
 I write and produce my own tracks and put together the videos to go with them.
 
-- 🎤 Latest work: **"BUNTE SCHEINE"** — a German-language rap track with cover art I designed myself.
-- 🎬 YouTube: videos for my tracks and behind-the-scenes content — **[link your channel here]**
-- 🎧 Streaming: **[link your Spotify / Apple Music here]**
-- 📸 Instagram / TikTok: **[link your socials here]**
+- 🎤 Latest work: **"BUNTE SCHEINE"** — a German-language rap track.
+- 🎧 Streaming: **[Spotify](https://open.spotify.com/artist/1bzBDJgvpO6arfJCgHjpJJ?si=U7AiQ6_vSsSKOQ2viB_RwQ)**
 
 ---
 
@@ -35,7 +33,7 @@ I write and produce my own tracks and put together the videos to go with them.
 |---|---|
 | **NEXO** | End-to-end encrypted secure messenger — Windows desktop first, Android to follow |
 | **Uptime** | Cross-platform app (iPhone/Android/Windows) to exchange accumulated stopwatch time between users, with leaderboards |
-| **Dice Masters** | **[describe it here]** |
+| **Dice Masters** | Social gaming platform with a virtual currency — complete challenges, earn DICE, play with friends, and climb the leaderboard (18+) |
 | **[yungdice.com](https://yungdice.com)** | My personal portfolio site |
 
 ---
@@ -56,8 +54,8 @@ I write and produce my own tracks and put together the videos to go with them.
 
 ### 📫 Let's Connect
 
-- 🌐 Website: [yungdice.com](https://yungdice.com)
-- 📧 Email: mgmt.yungdice@gmail.com
-- 🎥 YouTube: **[Yung Dice](https://www.youtube.com/@theyknowdice)
+- 🌐 Website: **[yungdice.com](https://yungdice.com)**
+- 📧 Email: **mgmt.yungdice@gmail.com**
+- 🎥 YouTube: **[Yung Dice](https://www.youtube.com/@theyknowdice)**
 
 <p align="center"><em>Building in public, one track and one repo at a time.</em></p>
